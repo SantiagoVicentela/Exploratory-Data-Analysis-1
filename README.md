@@ -10,7 +10,7 @@ Variables del Conjunto de Datos:
 
 El conjunto de datos contiene varias variables predictoras y una variable objetivo. Entre las principales variables se encuentran:
 
-Embarazos: Número de embarazos que ha tenido la paciente.
+-Embarazos: Número de embarazos que ha tenido la paciente.
 
 -IMC: Índice de masa corporal.
 
